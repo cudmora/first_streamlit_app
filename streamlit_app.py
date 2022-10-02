@@ -5,6 +5,6 @@ streamlit.title('My Parents New Healthy Diner')
 streamlit.title('Menu')
 streamlit.text('omega')
 streamlit.text('Kale')
-streamit.text('Kal1e')
+streamlit.text('Kal1e')
 
 
